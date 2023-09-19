@@ -1,2 +1,0 @@
-# BAMRecords
-GitHub Pages
